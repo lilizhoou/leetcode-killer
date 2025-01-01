@@ -1,9 +1,10 @@
 
--- # logic
-root: no p_id 
-inner : has p_id and left join not null 
-leaf: has p_id and left join is null 
-
+'''
+Logic:
+  root: no p_id 
+  inner : has p_id and left join not null 
+  leaf: has p_id and left join is null 
+'''
 -- Solution
   
 select id, 'Root' as type from Tree where p_id is null
