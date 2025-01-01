@@ -1,8 +1,10 @@
 
-#logic
+'''
+Logic
 1. root: p_id is null 
 2. leaf: p_id is not null, id is not in p_id
 3. inner: p_id is not null, id is in p_id
+'''
 
 #schema
 data = [[1, None], [2, 1], [3, 1], [4, 2], [5, 2]]
