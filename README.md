@@ -4,7 +4,7 @@ This is an ongoing side project.
 Started from 2024 Winter Holiday.
 
 
-#Problems 
+# Problems 
 
 | Leetcode | Pandas |SQL |Difficulty |
 |----------|----------|----------|---------|
@@ -14,8 +14,8 @@ Started from 2024 Winter Holiday.
 
 ---
 
-#SQL
+# SQL
 
 
 
-#Pandas
+# Pandas
