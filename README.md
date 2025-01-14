@@ -26,9 +26,34 @@ Started from 2024 Winter Holiday.
 |----------|----------|----------|---------|---------|
 | date_sub() |[1107.New Users Daily](https://leetcode.com/problems/new-users-daily-count/description/) | [solution](https://github.com/lilizhoou/leetcode-killer/blob/main/1108.New%20Users%20Daily/1108.%20New%20Users%20Daily.sql)     |Medium|[date_sub()](https://www.w3schools.com/sql/func_mysql_date_sub.asp)
 
+
+## 3. Case When
+ Problem |Solution |Difficulty |Note|
+|--------|----------|---------|---------|
+[1907. Count Salary Categories](https://leetcode.com/problems/count-salary-categories/description/) |[solution](https://github.com/lilizhoou/leetcode-killer/tree/main/1907.%20Count%20Salary%20Categories)|Medium|case when/union all
+
+
+
+
 # Pandas
 
 ## 1. Time
 | Category | Problem |Solution |Difficulty |Note|
 |----------|----------|----------|---------|---------|
 |df[xx].between() |[1107.New Users Daily](https://leetcode.com/problems/new-users-daily-count/description/) | [solution](https://github.com/lilizhoou/leetcode-killer/blob/main/1108.New%20Users%20Daily/1108.%20New%20Users%20Daily.sql)     |Medium|[series.between](https://pandas.pydata.org/docs/reference/api/pandas.Series.between.html)/[pd.to_datetime](https://pandas.pydata.org/docs/reference/api/pandas.to_datetime.html)/[pd.Timedelta](https://pandas.pydata.org/docs/reference/api/pandas.Timedelta.html)|
+
+
+## 2. group by 
+
+| Category | Problem |Solution |Difficulty |Note|
+|----------|----------|----------|---------|---------|
+count（）|[1907. Count Salary Categories](https://leetcode.com/problems/count-salary-categories/description/)|[solution](https://github.com/lilizhoou/leetcode-killer/tree/main/1907.%20Count%20Salary%20Categories)|Medium|group by + count + right join + lambda
+
+
+## 3. Join
+
+| Category | Problem |Solution |Difficulty |Note|
+|----------|----------|----------|---------|---------|
+right join|[1907. Count Salary Categories](https://leetcode.com/problems/count-salary-categories/description/)|[solution](https://github.com/lilizhoou/leetcode-killer/tree/main/1907.%20Count%20Salary%20Categories)|Medium|group by + count + right join
+
+
